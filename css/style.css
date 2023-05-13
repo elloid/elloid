@@ -1229,7 +1229,7 @@ a {
       } */
       .contact .content .form  textarea.main-input{
         width: calc(100% - 1.438rem) !important;
-        margin-left: 1rem !important;
+        margin-left: 1.2rem !important;
 
       }
       
